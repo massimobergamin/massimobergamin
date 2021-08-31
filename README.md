@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 my name is Massimo and I'm a full stack developer.
+
 
 <!--
 **massimobergamin/massimobergamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
